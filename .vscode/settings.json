@@ -1,5 +1,5 @@
 {  
-    "python.pythonPath": "${workspaceFolder}/djreact-venv/bin/python3",
+    "python.pythonPath": "djreact-venv/bin/python",
     "editor.minimap.enabled": false,
     "git.autofetch": true,
     "javascript.updateImportsOnFileMove.enabled": "never",
